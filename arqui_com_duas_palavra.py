@@ -1,5 +1,5 @@
 def test():
   pass
 
-def test012():
+def test_012():
   pass
